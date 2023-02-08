@@ -1,5 +1,7 @@
 <?php
-//  http://127.0.0.1:8080/2-bunny/
+//  http://127.0.0.1:8080/2-bunny/index.php?n=bugs&s=12
+//  http://127.0.0.1:8080/2-bunny/index.php?s=10
+//  http://127.0.0.1:8080/2-bunny/index.php?n=fiver
 
 require 'Rabbit.php';
 
